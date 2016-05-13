@@ -1,1 +1,1 @@
-# dnx-core-console-app TEST #
+# dnx-core-console-app TEST TEST #
