@@ -1,1 +1,2 @@
-This is first dummy text.
+This is the first dummy text.
+This is the second dummy text.
